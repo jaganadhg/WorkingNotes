@@ -89,11 +89,39 @@
   - The upper quartile (or third quartile) Q# is a figure that divided the data values into two parts so that three-fourths of the data values are smaller than the upper quartile and one-fourth of the data values are larger.
 
 
-* Choose of mesure 
+* Choice of mesure 
   - If the distribution is symmetrical average as mesure of location. Standard devision is mesure of dispersion .
   - If the distribution is skewed median as mesure of location . IQR as mesure of dispersion. 
 
-* 
+* Dispersion or relative spread
+  - Coefficeient of variation, often denoted CV, defined as the standard deviation as a percentage of average 
+  - CV = s/x-bar $x$ 100%
+  - Sometimes it called relative standard deviation
+
+
+* Data Types
+  * Quantitative Data e.g weight, height, temperature, amount 
+      - Ratio Data
+      - Interval data  (negatives can occour)
+  * Qualitative Data e.g gender, education, occupation
+      - Ordinal data - A number of categories with with natural ordering e.g grades in school
+      - Nominal Data - A number of named categories e.g various types of fruits banana, pinapple, ornage
+      - Binary Data - Two categiroes 
+  * Integer Data - Counting data
+  
+* Descriptive Statistics and Type of Data
+    - 
+
+| Sample Statistics  | Nominal Data  | Ordinal Data  | Integrer Data  | Interval Data  | ration Data  |
+|---|---|---|---|---|---|
+|  Mode | X  | X  |  X |  X |  X |
+|  Median |  - | X  |  X | X  | X  |
+|  Average |  - |  - |X   |  X | X  |
+|  Quartiles | -  |  X |  X | X  |  X |
+|  IQR | -  |  - |  X |  X |  X |
+|  Range | -  |  - | X  | X  | X  |
+|  Std DEv |  - | -  |  X | X  | X  |
+| Coeff of Var  | -  | -  |  X |  - |  X |
 
 
 
