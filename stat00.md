@@ -37,5 +37,43 @@
   
 * Mesure of location (center) mesure of dispersion (spread)
 
-* 
+* Avegrage is a mesure of the center in the distribution of the data values. 
+  - The average is calculated as the sum of all the data values divided by their number.
+  - x-bar .
+  - Often people use the term mean rather than average.
+  - Avergae is highly influenced by 'extreme values'.
+
+* The median is the data value "in the middle", i.e., a number that divided the data values in to two parts with an equal number of values. 
+  - The median can be found by first sorting the data values in ascending order.
+  - In the case of an odd number of data values, the median is the middle value.
+  - In the case of an even number of data values, there is no single data value driving data values into two euqally large parts; we then define the median as the average of the two middle values.
+
+* Themode is simply the most frequent data value.
+                  *
+*                 *
+                  *
+                * * *
+              * * * *
+        * * * * * * *         Mean = 6.1 Median 7 (Left skew - mean <median)
+        
+        *
+        *
+        *
+      * * *
+      * * * *
+      * * * * * * *     Mean =3.9 Median 3 (Right skewed - mean > median)
+
+
+          *
+          *
+        * * *
+        * * *
+    * * * * * * *       Mean = 5 Median = 5 (Symmetrical mean == median)
+    
+   
+   
+
+
+      
+      
 
