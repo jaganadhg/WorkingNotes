@@ -64,14 +64,38 @@
       * * * * * * *     Mean =3.9 Median 3 (Right skewed - mean > median)
 
 
-          *
-          *
-        * * *
-        * * *
-    * * * * * * *       Mean = 5 Median = 5 (Symmetrical mean == median)
+            *
+            *
+         *  *  *
+         *  *  *
+    *  * *  *  *  *  *       Mean = 5 Median = 5 (Symmetrical mean == median)
     
    
+   - For right-skewed distribution a data distribution with many large data values, the evarage is larger than median.
+   - For a left-skewed distribution i.e., a distribution with many small data values, the average is snaller than the median.
    
+
+* The range is simply the width of the intervel of the data values. 
+    - R = x max - x min
+
+* The variaence is the average of the squered distance between the data values and the average. 
+    - V = Sum(xi-x-bar)2/n-1
+
+* The standard deviation is the square root of the varience. 
+    - sqrt(V)
+
+* IQR = Q3 - Q1 
+  - The lowr quartile (or first quartile) Q1 is a number that divided the data values into two prats so that one-fourth of the data values are smaller than the lower quartile, and three-fourths of the data values are larger.
+  - The upper quartile (or third quartile) Q# is a figure that divided the data values into two parts so that three-fourths of the data values are smaller than the upper quartile and one-fourth of the data values are larger.
+
+
+* Choose of mesure 
+  - If the distribution is symmetrical average as mesure of location. Standard devision is mesure of dispersion .
+  - If the distribution is skewed median as mesure of location . IQR as mesure of dispersion. 
+
+* 
+
+
 
 
       
