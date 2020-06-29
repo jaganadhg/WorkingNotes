@@ -35,5 +35,7 @@
   - Systematic variation : The center of data
   - Random variation : The spread of data
   
+* Mesure of location (center) mesure of dispersion (spread)
+
 * 
 
