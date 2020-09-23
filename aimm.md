@@ -40,3 +40,5 @@
     - https://dataschool.com/misrepresenting-data/
 - Advanced SQL Alchemy
   - https://martinheinz.dev/blog/28
+  
+  - https://www.codementor.io/@waqasbukhariphd/machine-learning-with-sparse-high-dimensional-and-large-datasets-rqyenxubm
